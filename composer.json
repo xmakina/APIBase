@@ -1,0 +1,13 @@
+{
+    "name": "vendor/a-p-i-base",
+    "description": "A base for other API's, with user registration and login base done",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "me@alexwinson.co.uk"
+        }
+    ],
+    "require": {
+        "slim/slim": "dev-master"
+    }
+}
